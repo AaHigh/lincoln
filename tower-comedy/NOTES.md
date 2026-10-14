@@ -1,30 +1,17 @@
 # Notes
 
-## Handshake (13 October 2026)
+Handshake and refinements captured from discussion.
 
-- Host fee: $120 per night
-- Host arrival: 7:00–7:30
-- First comic: 8:00–8:15
-- Target wrap: 10:30, possible overtime or face-offs
-- Venue: small room, roughly 7 LCD screens, 12 tables, low stage
-- Approval already in place for comedy
+Host-first build: full night runnable with zero other devices. Manual controls cover all special cases (no phone, late arrival, cash only).
 
-## Open variables
+QR required for phone participation. Host explicitly links each accepted join to a pre-existing named bucket. Local file on phone preserves the association across disconnects. Avoids name-forgetting problems seen in other bar apps.
 
-- Exact fee amounts for each density band
-- Exact seed amounts per tier
-- Precise definition of “premium item”
-- Whether early free window ends at 8:00 or 8:15
-- Door cover amount
+Votes anonymous. Tips disclosed with timestamps. Claps private to the patron. Three signals stay separate.
 
-## Quality filters discussed
+Acrophobia fairness elements used: anonymous voting, no self-vote, points per vote received plus winner's bonus, host-controlled window. Elements not used: creative prompts, speed bonuses as core, face-off rounds, multi-round invention. Night has a small number of performed sets, not a game of authored answers.
 
-- Hard time caps enforced by host
-- Paid tiers only after 8:15
-- Live fee and live floor displayed so comics self-select
-- Host may refuse a paid slot if material is killing the room
-- Ranking by tip totals among paid comics only
+Video recording of the session provides the shared clock for later tip and clap review by performers and patrons.
 
-## Draft message to Aaron Gossett
+Open variables: exact prize conversion from vote ranking, soundboard thresholds, whether aggregate claps are shown live, credit-card purchase flow details, and any Tuesday/Wednesday/Thursday night adjustments that interact with the new process.
 
-Hey Aaron, just a quick note that I'm starting on the concept drafts for the comedy nights. Working through the timing, the tier structure, fees, and how the tip and prize side can fit the room. I'll have something concrete for you to look at soon.
+Draft for owner: the system grows from pure host cash handling. Phone features add durable pointers and optional real-time signals without creating new ways to lose money or fairness.

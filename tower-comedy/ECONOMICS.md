@@ -1,27 +1,11 @@
 # Economics
 
-Operator money is made on door cover plus bar (especially the 8:30–10:30 window). Seeds and floors are marketing spend. Entry fees offset that spend. The goal is a full room of people who stay and drink while bad material cannot empty the seats.
+Operator controls the night through the host. Entry is the two-item minimum. That minimum funds participation and the starting currency for tips.
 
-## Recovery logic
+Tips go directly to the named performer as disclosed compensation. Vote ranking can later convert into a separate prize pool under the published skill-contest rules. The two streams stay independent.
 
-- Comic entry fees go toward covering the operator seed.
-- Audience tips grow the competitive pool and act as the ranking signal.
-- Door cover and incremental bar sales are the real return.
-- On a good night the fees plus bar more than cover the seed. On a dead night the seed is a controlled loss.
+No house edge on the vote ranking. Host may take a transparent service amount from entry or from a predetermined prize pool. Exact splits remain open variables to be set before any paid night.
 
-## Example nights (illustrative)
+Organic path: cash is recorded on the host against a name before any phone joins. Currency purchases on linked phones add to the same named bucket. Disconnects do not drop balances.
 
-Medium Thursday  
-6 paid comics, average $25 entry = $150 fees, $75 seed, $200 tips.  
-Competitive pool roughly $425. Top 2–3 places take the bulk. First can clear a strong multiple. Operator near break-even on the seed before counting extra bar time.
-
-Dead night  
-2 comics, $15 each, $50 seed. Operator down roughly $20–30 on the pot. Acceptable once. After two soft nights, lower the seed or raise the minimum fee.
-
-## Heavy-hitter incentive
-
-A $100–150 floor at 9:00 plus tips can return $150–250+ to a winner on a $50 entry. That is real money for a 7–10 minute set. Transparent live pot and fee let strong comics decide whether to cross town or fly in.
-
-## Fee scaling principle
-
-Set the fee so an average night’s entry fees roughly cover or exceed the seed. The seed is the loss on dead nights and the floor that makes the night worth entering.
+Open: seed amounts, example night math, and fee scaling to be filled from prior economics notes or new owner input.

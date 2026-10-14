@@ -1,21 +1,11 @@
-# Legal notes
+# Legal
 
-California skill-contest framing. These are notes, not legal advice.
+California skill-contest framing. Dominant factor test applies. Outcome of the ranking is determined by patron votes on performed sets, not by chance.
 
-## Dominant factor
+Votes are anonymous and host-gated. Tips are voluntary disclosed compensation, not wagers on an uncertain result. Prize money that may flow from the vote ranking is a predetermined award for the skill contest, not a mutual pool of bets.
 
-Skill must predominate over chance (In re Allen). Audience judgment of comedy performance via tips is a skill metric. Clear, pre-announced criteria and consistent application strengthen the case.
+Host does not compete. Entry fees or minimums cover participation and administration. No side bets. Rules, vote windows, and any prize conversion are published in advance.
 
-## Prize versus wager
+Two-item minimum and named buckets keep consideration tied to a clear skill event. Electronic join and local persistence do not change the character of the contest.
 
-California commentary distinguishes a prize (offered by the organizer, who bears the risk) from a mutual wager pool (participants funding each other’s payouts). Variable pots funded directly by entry fees can be scrutinized.
-
-Safer structure: announce fixed tiered floors or guaranteed minimums funded by the house. Treat comic admission as a separate stage fee that offsets the house cost. Tips remain voluntary appreciation and can still drive ranking and upside sharing among the paid places.
-
-## Disclosure
-
-In-person skill tournaments receive some relief from the heavier contest-disclosure rules in Business and Professions Code 17539 et seq. Still keep rules transparent, fees visible before payment, and records of what was announced.
-
-## Practical
-
-Keep the ranking method (tip totals among paid comics) objective and pre-stated. Do not add chance elements. Do not describe entry fees as “buying a chance at the pot.”
+This is not legal advice. Structure should be reviewed with a California attorney familiar with skill contests before recurring cash events.

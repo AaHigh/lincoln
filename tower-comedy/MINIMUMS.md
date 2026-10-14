@@ -1,20 +1,11 @@
 # Minimums
 
-Two-item minimum translated from the classic comedy-club two-drink minimum. Any two menu items count.
+The two-item minimum (or two-premium-item minimum) is the entry condition that entitles a patron to participate in the session.
 
-## Timing
+In general it provides a minimum of three votes for the night, one vote that can be cast for each set.
 
-- Before roughly 8:15 (Tier 1): no minimum. Arrive, watch short sets, tip a dollar, leave. No charge.
-- Tier 2 (8:15–9:00): two-item minimum to occupy a seat. Any two items (soda, $5 cocktail, appetizer) satisfy it.
-- Tier 3 (9:00–close): two-premium-item minimum to keep the seat. Premium means a higher-priced cocktail, full pour, shareable, or anything clearly above the $5 floor. Exact definition follows Aaron Gossett’s existing menu tiers.
+Meeting the minimum also credits the named bucket with starting in-game currency that can be used for tips. Additional currency can be purchased by credit card on a linked phone.
 
-## Purpose
+Host records the minimum against the named bucket at the time cash is accepted. The QR join then binds a phone to that already-credited bucket.
 
-- Guarantees baseline spend per seat once the paid show is underway.
-- Stops pure seat-camping into the heavier window.
-- Matches Lincoln’s $5 identity so absolute cost stays low early.
-- Separates cleanly from comic entry fees and the prize pool.
-
-## Enforcement
-
-Host or server notes the time. At the Tier 3 boundary anyone who wants to keep the seat is offered the premium round. Decline and the table frees. Rule is time-based and posted with the other night variables.
+Open variable: exact item definitions and any premium distinction remain as previously discussed.

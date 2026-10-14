@@ -1,20 +1,9 @@
-# Tower Comedy
+# Lincoln Pub Comedy App Process
 
-Markdown documentation for the Lincoln Pub comedy nights in the Tower District.
+Updated October 2026. Captures the host-first interface model, QR join, named cash buckets, anonymous votes, disclosed tips, private clap records, and Acrophobia-inspired fairness rules discussed for organic growth.
 
-Captured 13 October 2026 from the handshake discussion with Aaron Gossett and subsequent refinements.
+See RULES.md for set and vote structure, MINIMUMS.md for the two-item entitlement, NOTES.md for open items, and the other files for economics, legal framing, and night adjustments.
 
-This folder is documentation only. No application code.
+Unzip this folder over the existing comedy repository markdown files. Matching names overwrite. New names are added.
 
-## Files
-
-- RULES.md — three-tier template and changeable variables
-- ECONOMICS.md — operator ROI, seeds, fees, example nights
-- LEGAL.md — California skill-contest notes
-- NIGHTS.md — Tuesday, Wednesday, Thursday adjustments
-- MINIMUMS.md — two-item and two-premium-item rules
-- NOTES.md — handshake details and open items
-
-## Upload
-
-Unzip. Create or push to a public GitHub repository (suggested name: comedy or tower-comedy). Add a root README if the repo holds more than this packet.
+iPhone steps: download the zip, unzip in place, then git add, commit, and push.
